@@ -1,4 +1,4 @@
-[clicl here to run](https://ecogenie.streamlit.app/)
+
 
 <h1>set up locally</h1>
 
